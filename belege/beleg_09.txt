@@ -1,0 +1,27 @@
+Nordlicht Fernbahn AG
+Gleisdreieck 1
+20097 Hamburg
+
+FAHRKARTE / RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        19.09.2025
+Belegnummer:  NF-ZT-8841-5520
+
+Positionen:
+------------------------------------------------------------
+ 1. Fahrkarte Hamburg Hbf – Köln Hbf, 2. Klasse, Hin- und Rückfahrt
+    1 x 112,15 EUR                                112,15 EUR
+------------------------------------------------------------
+Nettobetrag:                                      112,15 EUR
+USt 7 %:                                            7,85 EUR
+Bruttobetrag:                                     120,00 EUR
+============================================================
+
+Fernverkehr, ermäßigter Steuersatz gem. § 12 Abs. 2 Nr. 10 UStG
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

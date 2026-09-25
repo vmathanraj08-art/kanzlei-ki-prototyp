@@ -1,0 +1,162 @@
+[
+  {
+    "dateiname": "beleg_01.txt",
+    "belegart": "Büromaterial",
+    "bruttobetrag": 107.99,
+    "ust_satz": 19,
+    "skr03_konto": "4930",
+    "skr03_kontobezeichnung": "Bürobedarf"
+  },
+  {
+    "dateiname": "beleg_02.txt",
+    "belegart": "Tankbeleg",
+    "bruttobetrag": 77.48,
+    "ust_satz": 19,
+    "skr03_konto": "4530",
+    "skr03_kontobezeichnung": "Laufende Kfz-Betriebskosten"
+  },
+  {
+    "dateiname": "beleg_03.txt",
+    "belegart": "Software-Abo",
+    "bruttobetrag": 70.81,
+    "ust_satz": 19,
+    "skr03_konto": "4964",
+    "skr03_kontobezeichnung": "Aufwendungen für zeitlich befristete Überlassung von Rechten (Lizenzen)"
+  },
+  {
+    "dateiname": "beleg_04.txt",
+    "belegart": "Bewirtung",
+    "bruttobetrag": 65.01,
+    "ust_satz": 19,
+    "skr03_konto": "4650",
+    "skr03_kontobezeichnung": "Bewirtungskosten"
+  },
+  {
+    "dateiname": "beleg_05.txt",
+    "belegart": "Reisekosten",
+    "bruttobetrag": 179.76,
+    "ust_satz": 7,
+    "skr03_konto": "4666",
+    "skr03_kontobezeichnung": "Reisekosten Arbeitnehmer Übernachtungsaufwand"
+  },
+  {
+    "dateiname": "beleg_06.txt",
+    "belegart": "Telefon/Internet",
+    "bruttobetrag": 77.22,
+    "ust_satz": 19,
+    "skr03_konto": "4920",
+    "skr03_kontobezeichnung": "Telefon"
+  },
+  {
+    "dateiname": "beleg_07.txt",
+    "belegart": "Miete",
+    "bruttobetrag": 2160.0,
+    "ust_satz": 0,
+    "skr03_konto": "4210",
+    "skr03_kontobezeichnung": "Miete (unbewegliche Wirtschaftsgüter)"
+  },
+  {
+    "dateiname": "beleg_08.txt",
+    "belegart": "Büromaterial",
+    "bruttobetrag": 66.0,
+    "ust_satz": 19,
+    "skr03_konto": "4930",
+    "skr03_kontobezeichnung": "Bürobedarf"
+  },
+  {
+    "dateiname": "beleg_09.txt",
+    "belegart": "Reisekosten",
+    "bruttobetrag": 120.0,
+    "ust_satz": 7,
+    "skr03_konto": "4663",
+    "skr03_kontobezeichnung": "Reisekosten Arbeitnehmer Fahrtkosten"
+  },
+  {
+    "dateiname": "beleg_10.txt",
+    "belegart": "Tankbeleg",
+    "bruttobetrag": 102.42,
+    "ust_satz": 19,
+    "skr03_konto": "4530",
+    "skr03_kontobezeichnung": "Laufende Kfz-Betriebskosten"
+  },
+  {
+    "dateiname": "beleg_11.txt",
+    "belegart": "Bewirtung",
+    "bruttobetrag": 80.29,
+    "ust_satz": 19,
+    "skr03_konto": "4650",
+    "skr03_kontobezeichnung": "Bewirtungskosten"
+  },
+  {
+    "dateiname": "beleg_12.txt",
+    "belegart": "Software-Abo",
+    "bruttobetrag": 414.12,
+    "ust_satz": 19,
+    "skr03_konto": "4964",
+    "skr03_kontobezeichnung": "Aufwendungen für zeitlich befristete Überlassung von Rechten (Lizenzen)"
+  },
+  {
+    "dateiname": "beleg_13.txt",
+    "belegart": "Telefon/Internet",
+    "bruttobetrag": 70.95,
+    "ust_satz": 19,
+    "skr03_konto": "4925",
+    "skr03_kontobezeichnung": "Internetkosten"
+  },
+  {
+    "dateiname": "beleg_14.txt",
+    "belegart": "Reisekosten",
+    "bruttobetrag": 78.0,
+    "ust_satz": 7,
+    "skr03_konto": "4666",
+    "skr03_kontobezeichnung": "Reisekosten Arbeitnehmer Übernachtungsaufwand"
+  },
+  {
+    "dateiname": "beleg_15.txt",
+    "belegart": "Miete",
+    "bruttobetrag": 1755.25,
+    "ust_satz": 19,
+    "skr03_konto": "4210",
+    "skr03_kontobezeichnung": "Miete (unbewegliche Wirtschaftsgüter)"
+  },
+  {
+    "dateiname": "beleg_16.txt",
+    "belegart": "Büromaterial",
+    "bruttobetrag": 118.29,
+    "ust_satz": 19,
+    "skr03_konto": "4930",
+    "skr03_kontobezeichnung": "Bürobedarf"
+  },
+  {
+    "dateiname": "beleg_17.txt",
+    "belegart": "Tankbeleg",
+    "bruttobetrag": 67.07,
+    "ust_satz": 19,
+    "skr03_konto": "4530",
+    "skr03_kontobezeichnung": "Laufende Kfz-Betriebskosten"
+  },
+  {
+    "dateiname": "beleg_18.txt",
+    "belegart": "Bewirtung",
+    "bruttobetrag": 67.9,
+    "ust_satz": 19,
+    "skr03_konto": "4650",
+    "skr03_kontobezeichnung": "Bewirtungskosten"
+  },
+  {
+    "dateiname": "beleg_19.txt",
+    "belegart": "Software-Abo",
+    "bruttobetrag": 128.52,
+    "ust_satz": 19,
+    "skr03_konto": "4964",
+    "skr03_kontobezeichnung": "Aufwendungen für zeitlich befristete Überlassung von Rechten (Lizenzen)"
+  },
+  {
+    "dateiname": "beleg_20.txt",
+    "belegart": "Telefon/Internet",
+    "bruttobetrag": 62.32,
+    "ust_satz": 19,
+    "skr03_konto": "4920",
+    "skr03_kontobezeichnung": "Telefon"
+  }
+]

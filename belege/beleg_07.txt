@@ -1,0 +1,29 @@
+Grundbesitz Achterberg GbR
+Steinkamp 9
+33098 Paderborn
+
+MIETRECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        01.10.2025
+Belegnummer:  MR-2025-10-017
+
+Positionen:
+------------------------------------------------------------
+ 1. Büromiete Oktober 2025, 2. OG links, 142 m²
+    1 x 1.850,00 EUR                            1.850,00 EUR
+ 2. Nebenkostenvorauszahlung Oktober 2025
+    1 x 310,00 EUR                                310,00 EUR
+------------------------------------------------------------
+Nettobetrag:                                    2.160,00 EUR
+USt 0 %:                                            0,00 EUR
+Bruttobetrag:                                   2.160,00 EUR
+============================================================
+
+Steuerfreie Vermietung gem. § 4 Nr. 12 a UStG
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

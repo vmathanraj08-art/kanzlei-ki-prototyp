@@ -1,0 +1,29 @@
+Immobilienverwaltung Kettwig & Sohn GmbH
+Hafenkante 17
+45127 Essen
+
+MIETRECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        01.09.2025
+Belegnummer:  KS-M-2025-09-064
+
+Positionen:
+------------------------------------------------------------
+ 1. Miete Büroeinheit 3.04, September 2025
+    1 x 1.280,00 EUR                            1.280,00 EUR
+ 2. Nebenkostenvorauszahlung September 2025
+    1 x 195,00 EUR                                195,00 EUR
+------------------------------------------------------------
+Nettobetrag:                                    1.475,00 EUR
+USt 19 %:                                         280,25 EUR
+Bruttobetrag:                                   1.755,25 EUR
+============================================================
+
+Vermieter hat zur Umsatzsteuer optiert (§ 9 UStG)
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

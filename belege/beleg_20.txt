@@ -1,0 +1,29 @@
+Sprechwerk Telekommunikation AG
+Relaisstraße 3
+50667 Köln
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        04.11.2025
+Belegnummer:  SW-FN-25-10-88213
+
+Positionen:
+------------------------------------------------------------
+ 1. Festnetz-Telefonanlage 'Sprechwerk Cloud-PBX', 10/2025
+    1 x 39,90 EUR                                  39,90 EUR
+ 2. Verbindungsentgelte Oktober 2025
+    1 x 12,47 EUR                                  12,47 EUR
+------------------------------------------------------------
+Nettobetrag:                                       52,37 EUR
+USt 19 %:                                           9,95 EUR
+Bruttobetrag:                                      62,32 EUR
+============================================================
+
+Kundennummer: 7700-1204
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

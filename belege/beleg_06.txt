@@ -1,0 +1,29 @@
+Funkfeld Mobil GmbH
+Antennenweg 40
+40235 Düsseldorf
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        03.10.2025
+Belegnummer:  FM-7730-2025-09
+
+Positionen:
+------------------------------------------------------------
+ 1. Mobilfunktarif 'Funkfeld Business L', 09/2025
+    2 x 29,95 EUR                                  59,90 EUR
+ 2. Zusatzoption EU-Roaming Datenpaket
+    1 x 4,99 EUR                                    4,99 EUR
+------------------------------------------------------------
+Nettobetrag:                                       64,89 EUR
+USt 19 %:                                          12,33 EUR
+Bruttobetrag:                                      77,22 EUR
+============================================================
+
+Kundennummer: 000-44871
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

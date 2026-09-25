@@ -1,0 +1,27 @@
+Belegfix Cloud Solutions GmbH
+Kanalufer 33
+04109 Leipzig
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        15.09.2025
+Belegnummer:  BF-2025-000731
+
+Positionen:
+------------------------------------------------------------
+ 1. Jahreslizenz 'Belegfix Scan Pro', 15.09.2025 – 14.09.2026
+    1 x 348,00 EUR                                348,00 EUR
+------------------------------------------------------------
+Nettobetrag:                                      348,00 EUR
+USt 19 %:                                          66,12 EUR
+Bruttobetrag:                                     414,12 EUR
+============================================================
+
+Zahlbar innerhalb von 14 Tagen ohne Abzug
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.
