@@ -1,0 +1,27 @@
+Hotel Lindenkrone am Wall
+Wallpromenade 22
+28195 Bremen
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        24.09.2025
+Belegnummer:  LK-25-09-3318
+
+Positionen:
+------------------------------------------------------------
+ 1. Übernachtung Einzelzimmer, 22.09.–24.09.2025 (ohne Frühstück)
+    2 x 84,00 EUR                                 168,00 EUR
+------------------------------------------------------------
+Nettobetrag:                                      168,00 EUR
+USt 7 %:                                           11,76 EUR
+Bruttobetrag:                                     179,76 EUR
+============================================================
+
+Gast: Mitarbeiter/in der Kanzlei (fiktiv)
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

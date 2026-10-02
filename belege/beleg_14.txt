@@ -1,0 +1,27 @@
+Pension Heidegrund
+Birkenhang 4
+29614 Soltau
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        10.10.2025
+Belegnummer:  PH-0925
+
+Positionen:
+------------------------------------------------------------
+ 1. Übernachtung Doppelzimmer zur Einzelnutzung, 09.10.–10.10.2025
+    1 x 72,90 EUR                                  72,90 EUR
+------------------------------------------------------------
+Nettobetrag:                                       72,90 EUR
+USt 7 %:                                            5,10 EUR
+Bruttobetrag:                                      78,00 EUR
+============================================================
+
+Gast: Mitarbeiter/in der Kanzlei (fiktiv)
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

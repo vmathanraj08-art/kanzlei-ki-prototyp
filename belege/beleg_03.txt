@@ -1,0 +1,27 @@
+Wolkenwerk Software GmbH
+Bytestraße 7
+10969 Berlin
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        01.10.2025
+Belegnummer:  WW-SUB-2025-10-0192
+
+Positionen:
+------------------------------------------------------------
+ 1. Abo 'Wolkenwerk Office Business', 5 Nutzer, Oktober 2025
+    5 x 11,90 EUR                                  59,50 EUR
+------------------------------------------------------------
+Nettobetrag:                                       59,50 EUR
+USt 19 %:                                          11,31 EUR
+Bruttobetrag:                                      70,81 EUR
+============================================================
+
+Leistungszeitraum: 01.10.2025 – 31.10.2025
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

@@ -1,0 +1,22 @@
+Tankstelle Grevenbrink
+Landstraße 104
+59065 Hamm
+
+KASSENBON
+============================================================
+Datum:        20.10.2025
+Belegnummer:  GB-44-00917
+
+Positionen:
+------------------------------------------------------------
+ 1. Super E5, Zapfsäule 2, 38,77 l à 1,4538 EUR netto
+    1 x 56,36 EUR                                  56,36 EUR
+------------------------------------------------------------
+Nettobetrag:                                       56,36 EUR
+USt 19 %:                                          10,71 EUR
+Bruttobetrag:                                      67,07 EUR
+============================================================
+
+Zahlart: Kreditkarte
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

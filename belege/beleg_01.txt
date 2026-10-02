@@ -1,0 +1,29 @@
+Kontorbedarf Hesselmann KG
+Papiergasse 14
+33602 Bielefeld
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        08.09.2025
+Belegnummer:  KH-2025-04471
+
+Positionen:
+------------------------------------------------------------
+ 1. Kopierpapier A4, 80 g, 500 Blatt
+    10 x 4,29 EUR                                  42,90 EUR
+ 2. Ordner breit, blau
+    12 x 2,49 EUR                                  29,88 EUR
+ 3. Kugelschreiber, 10er-Pack
+    3 x 5,99 EUR                                   17,97 EUR
+------------------------------------------------------------
+Nettobetrag:                                       90,75 EUR
+USt 19 %:                                          17,24 EUR
+Bruttobetrag:                                     107,99 EUR
+============================================================
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

@@ -1,0 +1,29 @@
+Paragrafio Digital GmbH
+Auenweg 58
+90402 Nürnberg
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        01.11.2025
+Belegnummer:  PD-2025-11-3390
+
+Positionen:
+------------------------------------------------------------
+ 1. Abo 'Paragrafio Kanzlei-Datenbank', November 2025
+    1 x 89,00 EUR                                  89,00 EUR
+ 2. Zusatzmodul 'Fristenkalender'
+    1 x 19,00 EUR                                  19,00 EUR
+------------------------------------------------------------
+Nettobetrag:                                      108,00 EUR
+USt 19 %:                                          20,52 EUR
+Bruttobetrag:                                     128,52 EUR
+============================================================
+
+Leistungszeitraum: 01.11.2025 – 30.11.2025
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

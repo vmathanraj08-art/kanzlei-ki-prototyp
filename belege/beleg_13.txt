@@ -1,0 +1,29 @@
+Glasnetz Weserbergland GmbH
+Faserstraße 2
+31785 Hameln
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        05.10.2025
+Belegnummer:  GW-25-10-004512
+
+Positionen:
+------------------------------------------------------------
+ 1. Glasfaseranschluss 'Business 500', 10/2025
+    1 x 54,62 EUR                                  54,62 EUR
+ 2. Feste IP-Adresse
+    1 x 5,00 EUR                                    5,00 EUR
+------------------------------------------------------------
+Nettobetrag:                                       59,62 EUR
+USt 19 %:                                          11,33 EUR
+Bruttobetrag:                                      70,95 EUR
+============================================================
+
+Vertragsnummer: GW-VT-19840
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.

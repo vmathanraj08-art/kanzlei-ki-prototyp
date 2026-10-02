@@ -1,0 +1,29 @@
+Papeterie Ahlhorn GmbH
+Kontorhof 6
+49074 Osnabrück
+
+RECHNUNG
+============================================================
+Rechnungsempfänger:
+Kanzlei Musterfeld & Partner (fiktiv)
+Beispielallee 1
+12345 Musterstadt
+
+Datum:        13.10.2025
+Belegnummer:  PA-R-25-2231
+
+Positionen:
+------------------------------------------------------------
+ 1. Hängeregistratur, 25 Stück
+    2 x 18,90 EUR                                  37,80 EUR
+ 2. Etikettendrucker-Band 12 mm
+    4 x 11,45 EUR                                  45,80 EUR
+ 3. Locher, 40 Blatt
+    1 x 15,80 EUR                                  15,80 EUR
+------------------------------------------------------------
+Nettobetrag:                                       99,40 EUR
+USt 19 %:                                          18,89 EUR
+Bruttobetrag:                                     118,29 EUR
+============================================================
+
+Fiktiver Testbeleg – alle Angaben frei erfunden.
